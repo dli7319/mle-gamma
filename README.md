@@ -1,2 +1,3 @@
 # mle-gamma
-Method of Moments Gamma in R
+Parameter estimation for a Gamma distribution using
+Maximum Likelihood and Method of Moments written in R
